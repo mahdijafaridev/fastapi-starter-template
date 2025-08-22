@@ -41,4 +41,4 @@ app/
 
 ## 📄 License
 
-MIT © [Mohammad Mahdi Jafari](https://github.com/your-username)
+MIT © [Mohammad Mahdi Jafari](https://github.com/mahdijafaridev)
